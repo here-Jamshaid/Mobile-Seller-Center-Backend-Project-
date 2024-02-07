@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1b1523;
+    height: 100px;
+  }
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 50px 16px;
+    text-decoration: none;
+    font-size: large;
+  }
+  a:hover{
+    color: #ff17e4;
+  }
+body   h1{
+  margin-left: 550px;
+  margin-top: 250px;
+  
+}
